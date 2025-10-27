@@ -182,7 +182,6 @@ src/
 
 ### Example README Section to Add:
 
-```markdown
 ## 🏗️ My Implementation Notes
 
 ### Architecture Decisions
@@ -230,7 +229,6 @@ Claude code was used throughout this project to generate utility hooks, unit tes
 - Pagination: 45 minutes
 - Responsive layout: 1 hour
 - Polish & refactoring: 2 hours
-```
 
 ---
 

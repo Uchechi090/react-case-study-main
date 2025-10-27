@@ -180,13 +180,12 @@ src/
    - Add comments for complex logic
    - Explain non-obvious decisions
 
-### Example README Section to Add:
 
 ## 🏗️ My Implementation Notes
 
 ### Architecture Decisions
 
-- reated four specialized hooks (`usePagination`, `useSort`, `useUrlState`, `useProductsData`) following the Single Responsibility Principle. Each hook handles one concern, making them independently testable and reusable.
+- Created four specialized hooks (`usePagination`, `useSort`, `useUrlState`, `useProductsData`) following the Single Responsibility Principle. Each hook handles one concern, making them independently testable and reusable.
 - Implemented bidirectional URL state binding for sort, filter, and pagination parameters. This would enable shareable/bookmarkable URLs and maintains state during browser back/forward navigation
 - Organized components by feature with co-located tests (e.g., `Pagination/Pagination.tsx` + `Pagination.test.tsx`) rather than by type. This makes features easier to locate and refactor as atomic units.
 

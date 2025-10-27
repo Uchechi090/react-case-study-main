@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1761570227301" clover="3.2.0">
+  <project timestamp="1761570227301" name="All files">
+    <metrics statements="176" coveredstatements="159" conditionals="104" coveredconditionals="86" methods="71" coveredmethods="65" elements="351" coveredelements="310" complexity="0" loc="176" ncloc="176" packages="19" files="24" classes="24"/>
+    <package name="components.error-boundary">
+      <metrics statements="11" coveredstatements="11" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="ErrorBoundary.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/error-boundary/ErrorBoundary.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="33" count="6" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="54" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="99" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.filter-components">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="CategoryFilter.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/filter-components/CategoryFilter.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="27" count="9" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="43" count="31" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.layout.Footer">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Footer.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/layout/Footer/Footer.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.layout.Header">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Header.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/layout/Header/Header.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.layout.Sidebar">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="Sidebar.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/layout/Sidebar/Sidebar.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.pagination">
+      <metrics statements="17" coveredstatements="9" conditionals="10" coveredconditionals="7" methods="7" coveredmethods="5"/>
+      <file name="Pagination.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/pagination/Pagination.tsx">
+        <metrics statements="17" coveredstatements="9" conditionals="10" coveredconditionals="7" methods="7" coveredmethods="5"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="49" count="24" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.skeletons.CardSkeleton">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="CardSkeleton.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/skeletons/CardSkeleton/CardSkeleton.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="50" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="14" count="50" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/skeletons/CardSkeleton/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.skeletons.TableSkeleton">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="TableSkeleton.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/skeletons/TableSkeleton/TableSkeleton.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="50" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="33" count="50" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/skeletons/TableSkeleton/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.table-components.mobile-components.mobile-sort-control">
+      <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+      <file name="MobileSortControl.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/table-components/mobile-components/mobile-sort-control/MobileSortControl.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="8" type="stmt"/>
+        <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="48" count="32" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/table-components/mobile-components/mobile-sort-control/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.table-components.mobile-components.product-card">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ProductCard.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/table-components/mobile-components/product-card/ProductCard.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.table-components.sortable-header">
+      <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="14" methods="5" coveredmethods="5"/>
+      <file name="SortableHeader.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/table-components/sortable-header/SortableHeader.tsx">
+        <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="14" methods="5" coveredmethods="5"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="20" count="21" type="stmt"/>
+        <line num="22" count="21" type="stmt"/>
+        <line num="23" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="29" count="21" type="stmt"/>
+        <line num="30" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="21" type="stmt"/>
+        <line num="35" count="21" type="stmt"/>
+        <line num="36" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="19" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="21" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.table-components.table">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Table.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/components/table-components/table/Table.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="66" count="8" type="stmt"/>
+        <line num="100" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="data">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="products.json" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/data/products.json">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="hooks.usePagination">
+      <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/usePagination/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="usePagination.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/usePagination/usePagination.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="10" type="stmt"/>
+        <line num="26" count="10" type="stmt"/>
+        <line num="29" count="10" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="37" count="10" type="stmt"/>
+        <line num="45" count="10" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="49" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useProductsData">
+      <metrics statements="31" coveredstatements="23" conditionals="13" coveredconditionals="8" methods="11" coveredmethods="7"/>
+      <file name="useProductsData.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/useProductsData/useProductsData.ts">
+        <metrics statements="31" coveredstatements="23" conditionals="13" coveredconditionals="8" methods="11" coveredmethods="7"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="43" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="60" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="70" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="3" type="cond" truecount="4" falsecount="1"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="95" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useSort">
+      <metrics statements="19" coveredstatements="18" conditionals="24" coveredconditionals="21" methods="5" coveredmethods="5"/>
+      <file name="index.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/useSort/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="useSort.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/useSort/useSort.ts">
+        <metrics statements="19" coveredstatements="18" conditionals="24" coveredconditionals="21" methods="5" coveredmethods="5"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="9" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="41" count="9" type="stmt"/>
+        <line num="42" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="12" type="stmt"/>
+        <line num="46" count="12" type="stmt"/>
+        <line num="49" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="60" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useUrlState">
+      <metrics statements="26" coveredstatements="26" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6"/>
+      <file name="useUrlState.ts" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/hooks/useUrlState/useUrlState.ts">
+        <metrics statements="26" coveredstatements="26" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="32" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="40" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="68" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="74" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="81" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.About">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="About.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/pages/About/About.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Products">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="Products.tsx" path="/Users/uchechisamuel/Downloads/react-case-study-main/src/pages/Products/Products.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
